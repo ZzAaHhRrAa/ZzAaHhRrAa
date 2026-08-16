@@ -33,12 +33,12 @@ My technical domain covers **Computer Vision**, **Speech & Audio Processing**, a
 ---
 
 ### 🎓 Education & Academic Background
-* **M.Sc. in Surveying Engineering (Geodesy)** — University of Tehran (2018 – 2022)[cite: 1, 2]
-* **B.Sc. in Surveying Engineering** — Faculty of Surveying, NGO (2012 – 2016)[cite: 1, 2]
+* **M.Sc. in Surveying Engineering (Geodesy)** — University of Tehran (2018 – 2022)
+* **B.Sc. in Surveying Engineering** — Faculty of Surveying, NGO (2012 – 2016)
 
 ---
 
 ### 📫 Connect with Me
-* **Email:** z.manafi72@gmail.com[cite: 1, 2]
-* **LinkedIn:** [linkedin.com/in/zahra-manafi][(https://www.linkedin.com/in/zahra-manafi/)]
-* **Location:** Tehran, Iran[cite: 1, 2]
+* **Email:** z.manafi72@gmail.com
+* **LinkedIn:** (https://www.linkedin.com/in/zahra-manafi/)
+* **Location:** Tehran, Iran
