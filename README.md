@@ -11,7 +11,7 @@ My technical domain covers **Computer Vision**, **Speech & Audio Processing**, a
 ### 🛠️ Key Technical Expertise
 
 * **Computer Vision & Image Processing:** Image Classification, Facial Emotion Recognition, Satellite/Geospatial Data Analysis.
-* **Speech & Audio Processing:** Speech-To-Text pipelines, Automatic Speech Recognition (ASR), Speaker Diarization & Identification, Text-to-Speech (TTS) pipelines.
+* **Speech & Audio Processing:** Speech-To-Text (STT) pipelines, Automatic Speech Recognition (ASR), Speaker Diarization & Identification, Text-to-Speech (TTS) pipelines.
 * **MLOps & Engineering:** PyTorch, MLflow (Tracking & Registry), Docker, Hydra Configs, FastAPI, DVC, Git/GitLab, Linux, SQL.
 * **Data Engineering & Curation:** Large-scale Speech/Audio Dataset Design & Pipeline Curation, Custom Image Dataset Building & Preprocessing.
 * **Research & Communication:** Literature Review, Benchmarking SOTA Models, Technical Report Writing, Solution Presentation.
