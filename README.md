@@ -36,5 +36,5 @@ My journey in AI spans **Computer Vision**, **Speech & Audio Processing**, and *
 
 ### 📫 Connect with Me
 * **Email:** z.manafi72@gmail.com
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/zahra-manafi]([https://linkedin.com](https://www.linkedin.com/in/zahra-manafi/))
 * **Location:** Tehran, Iran
