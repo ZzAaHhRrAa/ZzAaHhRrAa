@@ -24,10 +24,10 @@ My technical domain covers **Computer Vision**, **Speech & Audio Processing**, a
   * *Focus:* **MLOps Infrastructure & Best Practices** (rather than pure accuracy optimization).
   * *Highlights:* Production-grade workflow using PyTorch, Hydra for dynamic configuration management, MLflow for experiment tracking and model registry, and Dockerized containerization.
 
-* 🛰️ **[EuroSAT Land Cover Classification](https://github.com/ZahraManafi/EuroSAT-Classification)**
+* 🛰️ **[EuroSAT Land Cover Classification](https://github.com/ZzAaHhRrAa/EuroSAT-RGB-Classification)**
   * *Description:* Land use and land cover classification on satellite imagery using PyTorch, Hydra configs, MLflow, and Docker deployment.
 
-* 🩺 **[HAM10000 Skin Lesion Analysis](https://github.com/ZahraManafi/HAM10000-Skin-Cancer)**
+* 🩺 **[HAM10000 Skin Lesion Analysis](https://github.com/ZzAaHhRrAa/HAM10000)**
   * *Description:* Dermatoscopic image classification incorporating custom PyTorch DataLoaders and class imbalance handling strategies.
 
 ---
